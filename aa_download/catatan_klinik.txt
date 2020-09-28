@@ -1,0 +1,20 @@
+# Perubahan tabel
+- supplier (kurangi email) DONE
+- bp_tindakan (tambah field status) DONE
+- pelayanan (tambah field tipe_pelayanan => ri dan rj) DONE
+- pasien (tinggal no_rm,nama,alamat,umur) DONE
+- stok obat apotik (hapus qty awal dan qty sekarang => qty)
+- obat (tambah field tipe qty)
+- penambahan tabel detail obat keluar internal
+- stok obat rawat inap (Pengurangan field)
+- detail transaksi rawat inap (penambahan field)
+- transaksi rawat inap (hapus atas nama)
+- detail transaksi rawat inap kamar (penambahan field tgl check in checkout dan hapus jumlah_hari)
+-Ubah Nama tabel ambulan menjadi ambulance. dll
+
+
+#Yang belum
+- No User Pegawai Masih data dummie saat pendaftaran
+- No RM format gimana?
+- struk rawat inap bagian kamar belum fix
+- tanggal penerimaan di penjualan obat belum di date format
